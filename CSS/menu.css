@@ -24,7 +24,6 @@ header{
     color: var(--color-neutra-1);
     font-weight: 600;
 }
-
 .mobile-btn, .mobile-menu{
     display: none;
 }
@@ -54,4 +53,5 @@ header{
     .mobile-nav-list .nav-item{
         text-align: center;
     }
+    
 }
